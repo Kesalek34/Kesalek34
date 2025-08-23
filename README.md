@@ -8,7 +8,8 @@
   🌸 <em>"Code is poetry, and I'm here to write beautiful verses"</em> 🌸
 </p>
 
-<img align="right" alt="Girl Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ### 💫 About Me
 - 🎀 **Passionate developer** from the beautiful lands of South Africa
 - 💕 **Creative soul** who loves building solutions that make a difference
