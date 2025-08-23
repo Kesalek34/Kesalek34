@@ -1,22 +1,82 @@
-<h1 align="center">Hi 👋, I'm Kesaobaka Lekaote</h1>
-<h3 align="center">💻 A passionate developer from South Africa, building creative solutions with code and always eager to learn and share.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+# ✨ Hey beautiful souls! I'm Kesaobaka Lekaote 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kesalek34&label=Profile%20views&color=0e75b6&style=flat" alt="kesalek34" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Passionate+Developer+%F0%9F%92%BB;Creative+Problem+Solver+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B8;From+South+Africa+with+Love+%F0%9F%87%BF%F0%9F%87%A6" alt="Typing SVG" />
+</div>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kesaobaka lekaote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kesaobaka lekaote" height="30" width="40" /></a>
-<a href="https://instagram.com/kesaobaka lekaote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kesaobaka lekaote" height="30" width="40" /></a>
+<p align="center">
+  🌸 <em>"Code is poetry, and I'm here to write beautiful verses"</em> 🌸
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding Girl" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kesalek34&show_icons=true&locale=en&layout=compact" alt="kesalek34" /></p>
+### 💫 About Me
+- 🎀 **Passionate developer** from the beautiful lands of South Africa
+- 💕 **Creative soul** who loves building solutions that make a difference
+- 🌟 **Forever learning** because growth never stops
+- 🦋 **Believer** in the power of code to change the world
+- 🌈 **Dream chaser** turning ideas into reality, one line at a time
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kesalek34&show_icons=true&locale=en" alt="kesalek34" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kesalek34&" alt="kesalek34" /></p>
+### 🌺 Let's Connect & Share Magic!
+<p align="left">
+<a href="https://linkedin.com/in/kesaobaka-lekaote" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-💼-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/kesaobaka-lekaote" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-📸-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+</p>
+
+### 🎨 My Tech Palette
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-💙-blue?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-💕-pink?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-✨-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-🐍-green?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-☕-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-🔥-red?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-🍃-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kesalek34&show_icons=true&locale=en&layout=compact&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&icon_color=bd93f9" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kesalek34&show_icons=true&locale=en&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&icon_color=bd93f9" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesalek34&theme=dracula&background=282a36&border=ff79c6&stroke=f8f8f2&ring=bd93f9&fire=ff79c6&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff79c6&sideLabels=bd93f9&dates=f8f8f2" alt="GitHub Streak" />
+</div>
+
+### 🌸 Currently Vibing With
+- 🎯 Building amazing mobile experiences with **Flutter**
+- 🌟 Exploring the magic of **React Native**
+- 💖 Learning new ways to make tech more inclusive
+- 🦋 Contributing to open source projects that matter
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kesalek34&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Kesaobaka" />
+</div>
+
+---
+<p align="center">
+  💫 <em>Made with lots of love, coffee, and code</em> 💫
+  <br/>
+  🌸 <em>Keep coding, keep dreaming, keep shining!</em> 🌸
+</p>
