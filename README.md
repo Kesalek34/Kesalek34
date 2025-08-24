@@ -44,21 +44,25 @@
   <img src="https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kesalek34&show_icons=true&locale=en&layout=compact&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&icon_color=bd93f9" alt="Top Languages" />
-</div>
-
-<br/>
+# 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesalek34&show_icons=true&locale=en&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&icon_color=bd93f9" alt="GitHub Stats" />
+
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kesalek34&show_icons=true&locale=en&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&icon_color=ff79c6" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kesalek34&theme=dracula&background=282a36&border=ff79c6&stroke=f8f8f2&ring=ff79c6&fire=ff79c6&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff79c6&sideLabels=ff79c6&dates=f8f8f2" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kesalek34&show_icons=true&locale=en&layout=compact&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&icon_color=ff79c6" alt="Top Languages" />
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesalek34&theme=dracula&background=282a36&border=ff79c6&stroke=f8f8f2&ring=bd93f9&fire=ff79c6&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff79c6&sideLabels=bd93f9&dates=f8f8f2" alt="GitHub Streak" />
-</div>
 
 ### 🌸 Currently Vibing With
 - 🎯 Building amazing mobile experiences with **Flutter**
