@@ -46,22 +46,35 @@
 
 # 📊 GitHub Stats:
 
+# 📊 GitHub Stats:
+
 <div align="center">
 
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kesalek34&show_icons=true&locale=en&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&icon_color=ff79c6" alt="GitHub Stats" />
+  <!-- Main GitHub Stats -->
+  ![](https://github-readme-stats.vercel.app/api?username=Kesalek34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&icon_color=ff69b4)
 
-  <br/><br/>
+  <br/>
 
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kesalek34&theme=dracula&background=282a36&border=ff79c6&stroke=f8f8f2&ring=ff79c6&fire=ff79c6&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff79c6&sideLabels=ff79c6&dates=f8f8f2" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  ![](https://nirzak-streak-stats.vercel.app/?user=Kesalek34&theme=radical&hide_border=false&background=0d1117&border=ff69b4&stroke=ffffff&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff)
 
-  <br/><br/>
+  <br/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kesalek34&show_icons=true&locale=en&layout=compact&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&icon_color=ff79c6" alt="Top Languages" />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kesalek34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&icon_color=ff69b4)
 
 </div>
+
+---
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=Kesalek34&icon=0&color=12)](https://visitcount.itsvg.in)
+  
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 ### 🌸 Currently Vibing With
