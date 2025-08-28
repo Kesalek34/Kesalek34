@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
+
 
 # 📊 GitHub Stats:
 
