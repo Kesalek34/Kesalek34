@@ -50,20 +50,18 @@
 
 <div align="center">
 
-  <!-- Main GitHub Stats -->
-  ![](https://github-readme-stats.vercel.app/api?username=Kesalek34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&icon_color=ff69b4)
+ # 📊 GitHub Stats:
 
-  <br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kesalek34&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kesalek34&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kesalek34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <!-- GitHub Streak -->
-  ![](https://nirzak-streak-stats.vercel.app/?user=Kesalek34&theme=radical&hide_border=false&background=0d1117&border=ff69b4&stroke=ffffff&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff)
+---
+[![](https://visitcount.itsvg.in/api?id=Kesalek34&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <br/>
-
-  <!-- Top Languages -->
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kesalek34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&icon_color=ff69b4)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div
 
 ---
 
